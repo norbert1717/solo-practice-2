@@ -1,0 +1,27 @@
+div.paragraph {
+  border: 1px solid black;
+  border-radius: 15px;
+
+  padding: 20px;
+  margin: 20px;
+
+  background-color: #dcdcdc;
+
+  cursor: pointer;
+  user-select: none;
+
+}
+
+div.paragraph:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+p {
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: Cambria, serif;
+}
